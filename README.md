@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roberto Escalante.
+- 👀 I’m interested in mobile and web development.
+- 🤓 I’m currently learning web frameworks like React and Angular.
